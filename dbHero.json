@@ -1,0 +1,160 @@
+{
+  "hero": [
+    {
+      "id": 1,
+      "gambar": "https://cdn.statically.io/img/i.pinimg.com/originals/fa/a2/59/faa2596e79e39a0f29f48cfec33384e9.jpg",
+      "nama": "Ironman",
+      "combat": 70,
+      "durability": 42,
+      "intelligence": 63,
+      "power": 45,
+      "speed": 35,
+      "strength": 44
+    },
+    {
+      "id": 2,
+      "gambar": "https://www.looper.com/img/gallery/heres-who-fans-want-to-take-the-throne-in-black-panther-2/intro-1599765259.jpg",
+      "nama": "Black Panther",
+      "combat": 67,
+      "durability": 45,
+      "intelligence": 33,
+      "power": 55,
+      "speed": 63,
+      "strength": 65
+    },
+    {
+      "id": 3,
+      "gambar": "https://i.pinimg.com/564x/27/3d/a0/273da00ad397f50bcd40e6f9c74b1b96.jpg",
+      "nama": "Spiderman",
+      "combat": 87,
+      "durability": 65,
+      "intelligence": 56,
+      "power": 65,
+      "speed": 54,
+      "strength": 53
+    },
+    {
+      "id": 4,
+      "gambar": "https://i.pinimg.com/564x/2a/9b/f4/2a9bf4ec161c2d1a1a82b0717faead5e.jpg",
+      "nama": "Batman",
+      "combat": 56,
+      "durability": 36,
+      "intelligence": 76,
+      "power": 45,
+      "speed": 65,
+      "strength": 32
+    },
+    {
+      "id": 5,
+      "gambar": "https://i.pinimg.com/564x/b4/5d/bc/b45dbcd617621193ce3ad142d643d23b.jpg",
+      "nama": "Thor",
+      "combat": 70,
+      "durability": 42,
+      "intelligence": 63,
+      "power": 45,
+      "speed": 35,
+      "strength": 44
+    },
+    {
+      "id": 6,
+      "gambar": "https://i.pinimg.com/564x/d5/3c/a3/d53ca380d1e519735e1c6e8822e4c692.jpg",
+      "nama": "Captain Marvel",
+      "combat": 88,
+      "durability": 52,
+      "intelligence": 33,
+      "power": 95,
+      "speed": 75,
+      "strength": 74
+    },
+    {
+      "id": 7,
+      "gambar": "https://i.pinimg.com/564x/b4/8a/82/b48a82f38216b6dc0b954763c7c52603.jpg",
+      "nama": "Captain America",
+      "combat": 66,
+      "durability": 46,
+      "intelligence": 57,
+      "power": 65,
+      "speed": 54,
+      "strength": 76
+    }
+  ],
+  "villain": [
+    {
+      "id": 1,
+      "gambar": "https://i.pinimg.com/564x/bf/dd/56/bfdd563df768182db9eb3fecdaacfc96.jpg",
+      "nama": "Scarlet Witch",
+      "combat": 55,
+      "durability": 65,
+      "intelligence": 43,
+      "power": 64,
+      "speed": 43,
+      "strength": 65
+    },
+    {
+      "id": 2,
+      "gambar": "https://i.pinimg.com/564x/4e/1d/55/4e1d55a5f9cce9d4b8c5bdc89400d973.jpg",
+      "nama": "Thanos",
+      "combat": 65,
+      "durability": 87,
+      "intelligence": 45,
+      "power": 54,
+      "speed": 32,
+      "strength": 34
+    },
+    {
+      "id": 3,
+      "gambar": "https://i.pinimg.com/564x/2b/24/22/2b2422be536bd0e2d360afb61ff51d9e.jpg",
+      "nama": "Loki",
+      "combat": 86,
+      "durability": 34,
+      "intelligence": 43,
+      "power": 46,
+      "speed": 54,
+      "strength": 65
+    },
+    {
+      "id": 4,
+      "gambar": "https://joglosemarnews.com/images/2022/07/1657735721370.jpg",
+      "nama": "Sambo",
+      "combat": 66,
+      "durability": 45,
+      "intelligence": 66,
+      "power": 54,
+      "speed": 44,
+      "strength": 50
+    },
+    {
+      "id": 5,
+      "gambar": "https://i.pinimg.com/236x/6f/ac/0a/6fac0aceb151d65b477d37fcefb84042.jpg",
+      "nama": "DR. Setiawan",
+      "combat": 65,
+      "durability": 44,
+      "intelligence": 50,
+      "power": 65,
+      "speed": 59,
+      "strength": 47
+    },
+    {
+      "id": 6,
+      "gambar": "https://i.pinimg.com/564x/53/e8/da/53e8da6a29a743acc4ca88ee60c2b99a.jpg",
+      "nama": "Dormammu",
+      "combat": 88,
+      "durability": 98,
+      "intelligence": 45,
+      "power": 98,
+      "speed": 76,
+      "strength": 87
+    },
+    {
+      "id": 7,
+      "gambar": "https://i.pinimg.com/564x/11/e5/39/11e539f71aefcb65822653bcae35e715.jpg",
+      "nama": "Kaecilius ",
+      "combat": 56,
+      "durability": 76,
+      "intelligence": 66,
+      "power": 63,
+      "speed": 64,
+      "strength": 45
+    }
+  ]
+}
